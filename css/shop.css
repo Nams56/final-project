@@ -89,8 +89,9 @@
 
 .product-image img {
   max-width: 100%;
-  height: auto;
+  height: 450px;
   border-radius: 5px;
+  margin-left: 50px;
 }
 
 .product-details {
@@ -162,10 +163,11 @@
 .meta-info p {
   margin: 10px 0;
   font-size: 0.95em;
+  color: #E1B168;
 }
 
 .meta-info .highlight {
-  color: #d4a762;
+  color: #000000;
 }
 
 .meta-info a {
@@ -181,6 +183,17 @@ hr {
   margin: 20px 0;
 }
 /* part c */
+.description2 {
+  margin: 30px 70px;
+}
+.description2 p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+.description2 h1{
+  margin-top: 20px;
+}
 /* part d */
 .dee-part {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
