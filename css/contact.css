@@ -275,10 +275,9 @@
   margin-bottom: 10px;
 }
 .contact-info2 img{
-  height: 25px;
-  width: 25px;
-  background-color: #E1B168;
-  border-radius: 40%;
+  height: 30px;
+  width: 30px;
+  padding-right: 10px;
   
 }
 .contact-info2  {
