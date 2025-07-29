@@ -64,6 +64,10 @@
     text-align: center;
     padding: 30px 30px;
 }
+a{
+  color: #292E36;
+  text-decoration: none;
+}
 /* part b */
 *{
   margin: 0;

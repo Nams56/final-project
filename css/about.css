@@ -343,6 +343,10 @@
   font-size: 14px;
   color: #666;
 }
+.chef-card a{
+  color: #666;
+  text-decoration: none;
+}
 /* PART E */
 
 .t-section {

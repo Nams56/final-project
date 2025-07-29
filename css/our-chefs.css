@@ -123,7 +123,11 @@
   margin: 0;
   background: #ffffff;
 }
-
+.chef-card a{
+  color:#a5b5b9 ;
+  text-decoration: none;
+  margin-top: 100px;
+}
 .social-icons-chef {
   margin-top: 10px;
   background-color: #000;

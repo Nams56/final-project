@@ -114,6 +114,10 @@
   color: #555;
   line-height: 1.6;
 }
+.content-section a{
+  color: #666;
+  text-decoration: none;
+}
 
 .info-grid {
   display: grid;

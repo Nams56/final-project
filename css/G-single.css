@@ -25,8 +25,8 @@
     
 }
 .cart{
-    height: 20px;
-    width: 20px;
+    height: 30px;
+    width: 30px;
     padding-left: 10px;
 }
 .btn-reserve{
@@ -63,6 +63,10 @@
 .g-single h2{
     text-align: center;
     padding: 30px 30px;
+}
+a{
+  color: #292E36;
+  text-decoration: none;
 }
 /* part b */
 * {
