@@ -39,7 +39,7 @@
 }
 .nav{
     border: #fff8f5 solid;
-    padding: 5px 1px;
+    padding: 5px 20px;
     
 }
 .navbar{
@@ -63,6 +63,9 @@
 .Chefs h2{
     text-align: center;
     padding: 30px 30px;
+}
+.icons{
+  padding-left: 220px;
 }
 /* part b */
 *{

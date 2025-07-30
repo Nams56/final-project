@@ -39,8 +39,7 @@
 }
 .nav{
     border: #fff8f5 solid;
-    padding: 5px 1px;
-    
+    padding: 5px 20px; 
 }
 .navbar{
     list-style: none;
@@ -67,6 +66,9 @@
 a{
   color: #292E36;
   text-decoration: none;
+}
+.icons{
+  padding-left: 220px;
 }
 /* part b */
 *{

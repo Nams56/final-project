@@ -39,7 +39,7 @@
 }
 .nav{
     border: #fff8f5 solid;
-    padding: 5px 1px;
+    padding: 5px 20px;
     
 }
 .navbar{
@@ -63,6 +63,9 @@
 .menu h2{
     text-align: center;
     padding: 30px 30px;
+}
+.icons{
+  padding-left: 220px;
 }
 /* PART B */
 * {
@@ -174,7 +177,7 @@
 }
 
 .menu-item .line-img {
-  width: 400px; /* adjust width as per your line image */
+  width: 400px; 
   margin: 0 30px;
 }
 

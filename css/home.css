@@ -45,7 +45,7 @@
 }
 .nav{
     border: #fff8f5 solid;
-    padding: 5px 1px;
+    padding: 5px 20px;
     
 }
 .navbar{
@@ -66,6 +66,9 @@
     justify-items: center;
     justify-content: space-between;
 
+}
+.icons{
+  padding-left: 220px;
 }
 .hero{
     display: flex;
